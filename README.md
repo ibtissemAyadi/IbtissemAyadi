@@ -77,22 +77,6 @@ I'm always eager to learn new technologies, contribute to impactful projects, an
 
 ---
 
-## 🔭 Featured Projects
-
-🤖 **Healthcare AI Assistant**
-- AI-powered healthcare assistant using LLMs and RAG for intelligent medical information retrieval.
-
-📄 **Document Question Answering System**
-- Built a Retrieval-Augmented Generation pipeline capable of answering questions from PDF documents using vector databases and semantic search.
-
-⚙️ **Desktop Automation Platform**
-- Developed a modular Python desktop application for workflow automation with robust validation and error handling.
-
-🌍 **Air Quality Data Warehouse**
-- Designed a complete ETL pipeline and interactive Power BI dashboards for air quality analytics and visualization.
-
----
-
 ## 🌱 Currently Learning
 
 - AI Agents & Multi-Agent Systems
