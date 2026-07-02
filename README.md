@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ibtissem Ayedi
+# 👋 Hi, I'm Ibtissem Ayadi
 
 🎓 AI Engineering Student | 🤖 Generative AI & Machine Learning Enthusiast | ☁️ Cloud & DevOps Learner
 
